@@ -1,4 +1,4 @@
 # HappyNewYear
-a wishing message for new year
+A wishing message for a New Year. 
 
-The interface will provive you a collection of baloons which you may pop up. After every baloons are popped up you will be shown a new year message.
+The interface will provide you a collection of balloons that you may pop up. After every balloon is popped up you will be shown a new year message.
